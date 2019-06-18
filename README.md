@@ -5,6 +5,7 @@
 * [心态](attitude)
 * 基础知识
   * 经济知识
+    * [宏观经济指标](economy/mac.md)
   * [会计知识](accounting)
   * [控制支出](out)
   * 主动收入
