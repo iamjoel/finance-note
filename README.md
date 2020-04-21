@@ -19,6 +19,7 @@
   * 其他
     * 保险
     * 用好信用卡，花呗
+* [高端金融流氓玩法](upper-bad-method.md)
 * 创投相关
   * 载体
     * [孵化器](startup-related/incubator.md)
@@ -29,3 +30,12 @@
 * 入门
   * 小狗钱钱
 * 穷爸爸富爸爸系列
+* 视频
+  * [半佛仙人](https://space.bilibili.com/37663924)
+  * [巫师财经](https://space.bilibili.com/472747194)
+  * [资本的故事](https://www.bilibili.com/video/av19258366)
+
+## 数据&咨询
+* Bloombery
+* Deallogic
+* wind（万得)
