@@ -34,6 +34,9 @@
   * [半佛仙人](https://space.bilibili.com/37663924)
   * [巫师财经](https://space.bilibili.com/472747194)
   * [资本的故事](https://www.bilibili.com/video/av19258366)
+* 文章
+  * [如何着手分析一个行业？- 知乎](https://www.zhihu.com/question/20219092)
+  * [很认真地聊一下美国](https://zhuanlan.zhihu.com/p/115815501)
 
 ## 数据&咨询
 * Bloombery
